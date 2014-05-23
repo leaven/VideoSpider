@@ -1,9 +1,3 @@
----
-layout: page
-title: 简谈视频嗅探
----
-{% include JB/setup %}
-
 
 ### 什么是视频嗅探
 

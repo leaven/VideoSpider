@@ -57,5 +57,5 @@ http://liwei24.fe.baidu.com/VideoSpider/index.php
 
 https://github.com/leaven/VideoSpider/
 
-未完继续...
+未完待续...
 
